@@ -563,6 +563,6 @@ Os cenários abaixo foram validados manualmente pelo Swagger, pelo navegador e p
 
 # 👤 Autor
 
-Desenvolvido por **Davi Coutinho Rangel**.
+Desenvolvido por **Nicolas Pereira de Mello Andrade**.
 
 Disciplina: **Tópicos Especiais em Engenharia de Software** — UFF.
